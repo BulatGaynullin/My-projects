@@ -1,0 +1,6 @@
+my_string = input("Ваше имя: ")
+print("Здравствуй, ", my_string)
+print(my_string .upper())
+print(my_string .lower())
+print(my_string [0])
+print(my_string [-1])
